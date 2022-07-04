@@ -10,3 +10,8 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 **[Open in Shortcuts](http://gg.gg/bingwpios)** (iOS 15.4 or later)
 
 [Issues/Feddback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
+
+## Quick Start
+There's a few steps to get it setup correctly, but I'll walk you through it.
+- First, install the shortcut from the link above. (You'll go through a brief tutorial when you run it for the first time.)
+- Once you've ran the shortcut and completed the interactive tutorial, it's time to setup the automation.
