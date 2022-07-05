@@ -40,3 +40,8 @@ For quick access, it's possible to add the shortcut to your homescreen or widget
 During the initial import of the shortcut, you're asked if you'd like to specify a custom language and region. The format used is "language-REGION". For example, English, United States, is en-US. And Spanish, Spain, would be es-ES. Below are references from W3Schools containing all language and country codes.
 - [List of Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp)
 - [List of Country Codes](https://www.w3schools.com/TAGS/ref_country_codes.asp)
+
+## Credits
+Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
+
+Wallpapers from Microsoft Bing. The copyright status of each image may differ, so please use caution of uploading or sharing the images.
