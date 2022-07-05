@@ -44,4 +44,4 @@ During the initial import of the shortcut, you're asked if you'd like to specify
 ## Credits
 Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
 
-Wallpapers from Microsoft Bing. The copyright status of each image may differ, so please use caution of uploading or sharing the images.
+Wallpapers from Microsoft Bing. The copyright status of each image may differ, so please use caution if uploading or sharing the images.
