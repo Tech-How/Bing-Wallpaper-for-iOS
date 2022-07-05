@@ -28,3 +28,15 @@ For quick access, it's possible to add the shortcut to your homescreen or widget
   - Tap the elipsis menu (3 dots) on the shortcut.
   - Tap the options icon in the top right-next to the close button.
   - Tap "Add to Home Screen".
+  - Give it a short name so it fits on your homescreen properly. (Ex. "Wallpaper")
+  - Tap the icon to the left of the name, and select the image downloaded during the turorial. (Or download it [here](https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/shortcut/bing-icon.png).)
+  - Tap "Add".
+- To add the shortcut to a widget:
+  - Add the Shortcuts widget to your homescreen or today view.
+  - Long-press on the widget, and choose "Edit".
+  - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
+
+## Changing Language/Region
+During the initial import of the shortcut, you're asked if you'd like to specify a custom language and region. The format used is "language-REGION". For example, English, United States, is en-US. And Spanish, Spain, would be es-ES. Below are references from W3Schools containing all language and country codes.
+- [List of Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp)
+- [List of Country Codes](https://www.w3schools.com/TAGS/ref_country_codes.asp)
