@@ -41,6 +41,10 @@ During the initial import of the shortcut, you're asked if you'd like to specify
 - [List of Language Codes](https://www.w3schools.com/tags/ref_language_codes.asp)
 - [List of Country Codes](https://www.w3schools.com/TAGS/ref_country_codes.asp)
 
+## Data & Privacy
+The first time you run the shortcut, you will be promped to allow access to "On my iPhone", or "On my iPad". This access is needed to remember your settings, and allow the shortcut to save data for use on next launch. Upon initial startup, a folder is created here named "Bing Wallpaper". Below is a list of all files created and how they are used:
+- wpDisabled
+
 ## Credits
 Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
 
