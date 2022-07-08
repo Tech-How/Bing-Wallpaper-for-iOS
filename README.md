@@ -44,7 +44,12 @@ During the initial import of the shortcut, you're asked if you'd like to specify
 
 ## Privacy Notice
 The first time you run the shortcut, you will be promped to allow access to "On my iPhone", or "On my iPad". This access is needed to remember your settings, and allow the shortcut to save data for use on next launch. Upon initial startup, a folder is created here named "Bing Wallpaper". Below is a list of all files created and how they are used:
-- wpDisabled
+- wpFirstRunCompleted: Remembers wheather or not the tutorial was run.
+- wpDisabled: Remembers if you've disabled the automation from within the shortcut.
+- wpIndex: Contains the index number of the currently applied wallpaper. Used to determine what information will show on the main menu.
+- wpVersion: Contains the current version of the shortcut. When read by a newer version, the post-update script will run.
+- wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again until you update the shortcut and a new version gets released.
+These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and you can delete them at any time. However, deleting files individually may cause the shortcut to malfunction. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. Wallpaper images are only downloaded if you choose to do so from the menu.
 
 ## Credits
 Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
