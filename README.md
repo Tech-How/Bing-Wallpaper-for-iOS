@@ -2,7 +2,7 @@
 # Bing Wallpaper for iOS
 Wake up to beautiful and intriguing wallpapers on your iOS device.
 
-<img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-1.png"/>
+<img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-1.png"/> -- <img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-2.png"/>
 
 Can't get your mind set on a wallpaper? Meet Bing Wallpaper for iOS. It exists for Windows and Android, and now Apple users can also enjoy Bing's daily images. The wallpapers change _automatically_ with the power of Shortcuts on iOS 15. And the first thing you'll see in the morning is a small banner with some info about the image. You can long-press on the notification to learn more, and see what's going on in the world.
 
