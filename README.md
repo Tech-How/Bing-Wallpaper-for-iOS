@@ -15,7 +15,7 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 ## Quick Start
 Please follow these steps to get the shortcut working correctly.
 - First, install the shortcut from the link above. (You'll go through a brief tutorial when you run it for the first time.)
-- Once you've ran the shortcut and completed the interactive tutorial, it's time to setup the automation.
+- Once you've run the shortcut and completed the interactive tutorial, it's time to set up the automation.
   - Navigate to the automation tab, and tap the "+" icon.
   - Tap "Create Personal Automation".
   - Choose "Time of Day", and enter a time that works for you. (Different regions have different update times, but I use 5 AM EST for the default region.)
@@ -24,16 +24,16 @@ Please follow these steps to get the shortcut working correctly.
   - Finally, tap next, and disable "Ask Before Running", and "Notify When Run".
 
 ## Add to Home Screen/Widget
-For quick access, it's possible to add the shortcut to your homescreen or widget.
-- To add the shortcut to your homescreen:
+For quick access, it's possible to add the shortcut to your home screen or widget.
+- To add the shortcut to your home screen:
   - Tap the elipsis menu (3 dots) on the shortcut.
   - Tap the options icon in the top right-next to the close button.
   - Tap "Add to Home Screen".
-  - Give it a short name so it fits on your homescreen properly. (Ex. "Wallpaper")
+  - Give it a short name so it fits on your home screen properly. (Ex. "Wallpaper")
   - Tap the icon to the left of the name, and select the image downloaded during the turorial. (Or download it [here](https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/shortcut/bing-icon.png).)
   - Tap "Add".
 - To add the shortcut to a widget:
-  - Add the Shortcuts widget to your homescreen or today view.
+  - Add the Shortcuts widget to your home screen or today view.
   - Long-press on the widget, and choose "Edit".
   - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
 
@@ -43,14 +43,14 @@ During the initial import of the shortcut, you're asked if you'd like to specify
 - [List of Country Codes](https://www.w3schools.com/TAGS/ref_country_codes.asp)
 
 ## Privacy Notice
-The first time you run the shortcut, you will be promped to allow access to "On my iPhone", or "On my iPad". This access is needed to remember your settings, and allow the shortcut to save data for use on next launch. Upon initial startup, a folder is created here named "Bing Wallpaper". Below is a list of all files created and how they are used:
-- wpFirstRunCompleted: Remembers wheather or not the tutorial was run.
+The first time you run the shortcut, you will be prompted to allow access to "On my iPhone", or "On my iPad". This access is needed to remember your settings, and allow the shortcut to save data for use on next launch. Upon initial startup, a folder is created here named "Bing Wallpaper". Below is a list of all files created and how they are used:
+- wpFirstRunCompleted: Remembers whether or not the tutorial was run.
 - wpDisabled: Remembers if you've disabled the automation from within the shortcut.
 - wpIndex: Contains the index number of the currently applied wallpaper. Used to determine what information will show on the main menu.
 - wpVersion: Contains the current version of the shortcut. When read by a newer version, the post-update script will run.
 - wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again until you update the shortcut and a new version gets released.
 
-These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and you can delete them at any time. However, deleting files individually may cause the shortcut to malfunction. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. Wallpaper images are only downloaded if you choose to do so from the menu.
+These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and delete them at any time. However, deleting files individually may cause the shortcut to behave improperly. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. They are only downloaded if you choose to do so from the menu.
 
 ## Credits
 Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
