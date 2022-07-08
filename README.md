@@ -8,7 +8,7 @@ Can't get your mind set on a wallpaper? Meet Bing Wallpaper for iOS. It exists f
 
 It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of the image is always front and center. iPad users receive the 4K image, while iPhone and iPod users get the content-aware portrait image.
 
-**[Open in Shortcuts](http://gg.gg/bingwpios)** (iOS 15.4 or later)
+**[Open in Shortcuts](http://example.com)** (iOS 15.4 or later)
 
 [Issues/Feddback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
 
