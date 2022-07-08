@@ -18,7 +18,7 @@ Please follow these steps to get the shortcut working correctly.
 - Once you've ran the shortcut and completed the interactive tutorial, it's time to setup the automation.
   - Navigate to the automation tab, and tap the "+" icon.
   - Tap "Create Personal Automation".
-  - Choose "Time of Day", and enter a time that works for you. (Different regions have different update times, but I use 5 AM EST for the default.)
+  - Choose "Time of Day", and enter a time that works for you. (Different regions have different update times, but I use 5 AM EST for the default region.)
   - Search for the action "Text" and tap to insert it. Enter the number 0 in the box that appears.
   - Next, search for the action "Run Shortcut" and tap to insert it. Choose "Bing Wallpaper for iOS" in the box that appears.
   - Finally, tap next, and disable "Ask Before Running", and "Notify When Run".
