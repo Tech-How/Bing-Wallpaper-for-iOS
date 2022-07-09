@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION. Release date: Sunday, July 10th, 8 PM EST
+# UNDER CONSTRUCTION. Will release on: Sunday, July 10th, 8 PM EST
 # Bing Wallpaper for iOS
 Wake up to beautiful and intriguing wallpapers on your iOS device.
 
