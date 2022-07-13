@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION. Will have releases published soon!
+# Publishing releases... Check back in 15 minutes!
 # Bing Wallpaper for iOS
 Wake up to beautiful and intriguing wallpapers on your iOS device.
 
