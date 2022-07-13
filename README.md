@@ -1,4 +1,4 @@
-# Publishing releases... Check back in 15 minutes!
+# Publishing releases... Check back soon!
 # Bing Wallpaper for iOS
 Wake up to beautiful and intriguing wallpapers on your iOS device.
 
