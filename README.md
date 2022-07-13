@@ -12,7 +12,7 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 [Issues/Feddback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
 
 ## Quick Start
-Please follow these steps to get the shortcut working correctly.
+Follow these steps to get the shortcut working correctly.
 - First, install the shortcut from the link above. (You'll go through a brief tutorial when you run it for the first time.)
 - Once you've run the shortcut and completed the interactive tutorial, it's time to set up the automation.
   - Navigate to the automation tab, and tap the "+" icon.
