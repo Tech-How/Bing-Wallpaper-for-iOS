@@ -1,13 +1,13 @@
 # Bing Wallpaper for iOS
 Wake up to beautiful and intriguing wallpapers on your iOS device.
 
-<img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-1.png"/> -- <img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-2.png"/>
+<img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-3.png"/> -- <img src="https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/repo/readme/promo-4.png"/>
 
 Can't get your mind set on a wallpaper? Meet Bing Wallpaper for iOS. It exists for Windows and Android, and now Apple users can also enjoy Bing's daily images. The wallpapers change _automatically_ with the power of Shortcuts on iOS 15. And the first thing you'll see in the morning is a small banner with some info about the image. You can long-press on the notification to see more info and learn something new.
 
 It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of the image is always front and center. iPad users receive the 4K image, while iPhone and iPod users get the content-aware portrait image.
 
-**[Open in Shortcuts](https://www.icloud.com/shortcuts/c3462f2755ff4e9d92f06aebe20f5a20)** (iOS 15.4 or later)
+**[Open in Shortcuts](https://www.icloud.com/shortcuts/915f23a9f5db45a1badbb05ab06c5c1f)** (iOS 15.4 or later)
 
 [Issues/Feddback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
 
@@ -35,6 +35,13 @@ For quick access, it's possible to add the shortcut to your home screen or widge
   - Add the Shortcuts widget to your home screen or today view.
   - Long-press on the widget, and choose "Edit".
   - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
+  
+## Changing Settings
+If you'd like, you can disable some of the app's features that you don't need or like. So far, here are the options that can be configured:
+- Informative Notifications
+- Automatic Updates
+
+To disable one or more of these features, open the shortcut editor by tapping on the elipsis menu (3 dots) on the shortcut. Under the comments section, delete the corresponding values that are marked with "Erase to Disable."
 
 ## Changing Language/Region
 During the initial import of the shortcut, you're asked if you'd like to specify a custom language and region. The format used is "language-REGION". For example, English, United States, is en-US. And Spanish, Spain, would be es-ES. Below are references from W3Schools containing all language and country codes.
