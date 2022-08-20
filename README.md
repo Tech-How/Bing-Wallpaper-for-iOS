@@ -59,8 +59,3 @@ The first time you run the shortcut, you will be prompted to allow access to "On
 - wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again until you update the shortcut and a new version gets released.
 
 These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and delete them at any time. However, deleting files individually may cause the shortcut to behave improperly. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. They are only downloaded if you choose to do so from the menu.
-
-## Credits
-Inspiration from [JellyTheBear](https://www.reddit.com/user/JellyTheBear/).
-
-Wallpapers from Microsoft Bing. The copyright status of each image may differ, so please use caution if uploading or sharing the images.
