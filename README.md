@@ -40,7 +40,7 @@ For quick access, it's possible to add the shortcut to your home screen or widge
   
 ## Changing Settings
 If you'd like, you can disable some of the app's features that you don't need or like. So far, here are the options that can be configured:
-- Informative Notifications
+- Image Notifications
 - Automatic Updates
 
 To disable one or more of these features, open the shortcut editor by tapping on the elipsis menu (3 dots) on the shortcut. Under the comments section, delete the corresponding values that are marked with "Erase to Disable."
