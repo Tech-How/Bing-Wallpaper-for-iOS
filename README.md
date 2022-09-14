@@ -56,6 +56,6 @@ The first time you run the shortcut, you will be prompted to allow access to "On
 - wpDisabled: Remembers if you've disabled the automation from within the shortcut.
 - wpIndex: Contains the index number of the currently applied wallpaper. Used to determine what information will show on the main menu.
 - wpVersion: Contains the current version of the shortcut. When read by a newer version, the post-update script will run.
-- wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again until you update the shortcut and a new version gets released.
+- wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again unless you choose to update.
 
 These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and delete them at any time. However, deleting files individually may cause the shortcut to behave improperly. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. They are only downloaded if you choose to do so from the menu.
