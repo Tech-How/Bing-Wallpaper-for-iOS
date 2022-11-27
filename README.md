@@ -9,8 +9,6 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 
 **[Open in Shortcuts](https://www.icloud.com/shortcuts/915f23a9f5db45a1badbb05ab06c5c1f)** (iOS 15.4 or later)
 
-_Link not working? [Import Shortcut File](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/releases/download/v1.8.1/Bing.Wallpaper.for.iOS.shortcut)_
-
 [Issues/Feedback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
 
 (iOS 16 support is still in the works, and may not function as intended just yet.)
