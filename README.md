@@ -9,7 +9,7 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 
 **[Open in Shortcuts](https://www.icloud.com/shortcuts/915f23a9f5db45a1badbb05ab06c5c1f)** (iOS 15.4 or later)
 
-[Issues/Feedback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose) | [Send Email](mailto:tech_how_youtuber_55@yahoo.com?subject=Bing%20Wallpaper%20iOS)
+[Issues/Feedback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose)
 
 ## Quick Start
 Follow these steps to get the shortcut up and running.
