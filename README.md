@@ -37,11 +37,11 @@ For quick access, it's possible to add the shortcut to your home screen or widge
   - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
   
 ## Changing Settings
-If you'd like, you can disable some of the app's features that you don't need or like. So far, here are the options that can be configured:
+If you'd like, you can disable some of the app's features that you don't need or want. Currently, here are the options that can be configured:
 - Image Notifications
 - Automatic Updates
 
-To disable one or more of these features, open the shortcut editor by tapping on the elipsis menu (3 dots) on the shortcut. Under the comments section, delete the corresponding values that are marked with "Erase to Disable."
+To disable one or more of these features, open the shortcut editor by tapping on the elipsis menu (3 dots) on the shortcut. In the dictionary block underneath the release notes, delete the corresponding values that are marked with "Erase to Disable."
 
 ## Changing Language/Region
 During the initial import of the shortcut, you're asked if you'd like to specify a custom language and region. The format used is "language-REGION". For example, English, United States, is en-US. And Spanish, Spain, would be es-ES. Below are references from W3Schools containing all language and country codes.
@@ -56,4 +56,4 @@ The first time you run the shortcut, you will be prompted to allow access to "On
 - wpVersion: Contains the current version of the shortcut. When read by a newer version, the post-update script will run.
 - wpUpdatePush: Remembers if a push notification was sent about an update. If so, you won't be notified again unless you choose to update.
 
-These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and delete them at any time. However, deleting files individually may cause the shortcut to behave improperly. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. They are only downloaded if you choose to do so from the menu.
+These files are stored and processed locally, and are never sent to Bing or GitHub. You can find them in the files app under "On my Device/Bing Wallpaper", and delete them at any time. However, deleting files individually may cause the shortcut to behave improperly. Deleting the entire folder will properly reset the shortcut. Wallpaper images are fetched from Microsoft Bing on each run, and are not stored here. They are only downloaded if you choose to do so from the menu.
