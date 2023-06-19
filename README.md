@@ -9,7 +9,7 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 
 ⚠️ Automatic blurring in iOS 16 can be disabled as per [this thread](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/2).
 
-**[Open in Shortcuts](https://www.icloud.com/shortcuts/915f23a9f5db45a1badbb05ab06c5c1f)** (iOS 15.4 or later)
+**[Open in Shortcuts](https://www.icloud.com/shortcuts/54eec538f8e74fa39fbf240d8220fe5c)** (iOS 15.4 or later)
 
 [Issues/Feedback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose)
 
