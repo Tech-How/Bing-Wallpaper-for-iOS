@@ -7,7 +7,7 @@ Can't decide on a wallpaper? Meet Bing Wallpaper for iOS. It exists for Windows 
 
 It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of the image is always front and center. iPad users receive the 4K image, while iPhone and iPod users get the content-aware portrait image.
 
-⚠️ Automatic blurring in iOS 16 can be disabled as per [this thread](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/2).
+⚠️ Automatic blurring in iOS 16 can be disabled as per [this thread](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/2#issuecomment-1561979925).
 
 **[Open in Shortcuts](https://www.icloud.com/shortcuts/54eec538f8e74fa39fbf240d8220fe5c)** (iOS 15.4 or later)
 
