@@ -23,6 +23,8 @@ Follow these steps to get the shortcut up and running.
   - Search for the action "Text" and tap to insert it. Enter the number 0 in the box that appears.
   - Next, search for the action "Run Shortcut" and tap to insert it. Choose "Bing Wallpaper for iOS" in the box that appears.
   - Finally, tap next, and disable "Ask Before Running", and "Notify When Run".
+ 
+[Video Tutorial](https://drive.google.com/file/d/1VqQ7kNX5cbSP8ESP7vPbpRBH8_Frod84/view)
 
 ## Add to Home Screen/Widget
 For quick access, it's possible to add the shortcut to your home screen or widget.
@@ -37,8 +39,6 @@ For quick access, it's possible to add the shortcut to your home screen or widge
   - Add the Shortcuts widget to your home screen or today view.
   - Long-press on the widget, and choose "Edit".
   - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
-
-[Video Tutorial](https://drive.google.com/file/d/1VqQ7kNX5cbSP8ESP7vPbpRBH8_Frod84/view)
   
 ## Changing Settings
 If you'd like, you can disable some of the app's features that you don't need or want. Currently, here are the options that can be configured:
