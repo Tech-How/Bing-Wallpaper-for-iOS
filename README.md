@@ -37,6 +37,7 @@ For quick access, it's possible to add the shortcut to your home screen or widge
   - Add the Shortcuts widget to your home screen or today view.
   - Long-press on the widget, and choose "Edit".
   - Choose the same folder that your shortcut is in. You can move your shortcut by long-pressing it in the app.
+ [Video Tutorial](https://raw.githubusercontent.com/Tech-How/Bing-Wallpaper-for-iOS/main/images/automation_tutorial.mp4)
   
 ## Changing Settings
 If you'd like, you can disable some of the app's features that you don't need or want. Currently, here are the options that can be configured:
