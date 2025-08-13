@@ -13,8 +13,6 @@ It's also perfectly optimized for iPad, iPhone, and iPod touch, so the focus of 
 
 [Issues/Feedback Center](https://github.com/Tech-How/Bing-Wallpaper-for-iOS/issues/new/choose)
 
-<a href="https://buymeacoffee.com/tristiandedinas" target="_blank"><img src="https://unfoldingbytes.com/wp-content/uploads//2025/05/bmc_button-2.svg" alt="Buy Me a Coffee"></a>
-
 ## Quick Start
 Follow these steps to get the shortcut up and running.
 - First, install the shortcut from the link above. (You'll go through a brief tutorial when you run it for the first time.)
